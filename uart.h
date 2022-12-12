@@ -2,7 +2,7 @@
 #define UART_H_
 
 
-void UART_TX_string(unsigned char *ptr){};
+void UART_TX_string(unsigned char *ptr);
 
 
 #endif
